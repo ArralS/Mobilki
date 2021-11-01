@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="question1">Liverpool jest drużyną grającą w Serie A.</string>
+    <string name="question2">Gwatemala to kraj znajdujący się w Ameryce Południowej.</string>
+    <string name="question3">Adam Małysz zakończył karierę w 2011 roku.</string>
+    <string name="question4">Ceremonia mistrzostw świata w League of Legends w 2017 roku otrzymała tytuł najlepiej zroganizowanego eventu tamtego roku.</string>
+    <string name="question5">Pizza Hawajska nie jest uznawana przez Włochów jako pizza.</string>
+    <string name="correct_answer">Brawo!</string>
+    <string name="incorrect_answer">Nie Brawo!</string>
+</resources>
